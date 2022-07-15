@@ -1,6 +1,6 @@
 ## Todo List
 Web Todo list written with Flask-Python and SQLAChemy
-
+https://todolistweb1.herokuapp.com/
 ## Link:
 ```
 [Link web](https://todolistweb1.herokuapp.com/)
@@ -11,7 +11,7 @@ Web Todo list written with Flask-Python and SQLAChemy
 python >= 3.8
 ```
 
-## Getting started
+## Installation
 ```bash
 git clone https://github.com/HieuAnh87/TodoList.git
 cd TodoList
