@@ -1,10 +1,9 @@
 ## Todo List
 Web Todo list written with Flask-Python and SQLAChemy
+
+## Link web
 https://todolistweb1.herokuapp.com/
-## Link:
-```
-[Link web](https://todolistweb1.herokuapp.com/)
-```
+
 
 ## Requirements
 ```
